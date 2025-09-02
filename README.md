@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Ihtisham Ul Haq Shami</h1>
-<h3 align="center">Expert in building scalable applications with the Full stack / Mern Stack Development </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack%20Developer-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Python%20Developer-blue?style=for-the-badge"/>
+</p>
+
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="300" height="250" />
 
