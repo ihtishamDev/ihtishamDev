@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Full%20Stack%20Python%20Developer-blue?style=for-the-badge"/>
 </p>
 
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="full stack developer" width="300" height="250" />
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="300" height="250" />
 
 - 💻 I build scalable backend systems using Django, Flask, and FastAPI.<br>
 
