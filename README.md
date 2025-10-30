@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ihtisham-ul-haq-shami-a4a265255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihtisham-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shami.__.a/?next=%2Fmdshami.11%2F%3Fhl%3Den&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihtisham-instagram" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/shami.__.a/?next=%2Fmdshami.11%2F%3Fhl%3Den&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihtisham-instagram" height="30" width="40" /></a> -->
 </p>
 
 </div>
