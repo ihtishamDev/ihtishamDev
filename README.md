@@ -62,6 +62,9 @@
   <img src="https://img.shields.io/badge/Jinja-800000?style=for-the-badge&logo=jinja&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=api&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-007ACC?style=for-the-badge&logo=&logoColor=white" alt="RAG Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+  
 </p>
 
 <!-- DATABASE SKILLS -->
