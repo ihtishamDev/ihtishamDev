@@ -11,7 +11,7 @@
 
 - 💻 I build scalable backend systems using Django, Flask, and FastAPI.<br>
 
-- 💬 Ask me about **React, Next.js, Node.js, Blockchain**
+- 💬 Ask me about **React, Next.js, Python**
 
 - 📫 Reach me at **ahtishamjhn@gmail.com**
 
